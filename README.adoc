@@ -1,0 +1,29 @@
+XCB/Cairo Nuklear Backend
+=========================
+:nuklear: https://github.com/vurtun/nuklear[Nuklear]
+:xcb: https://xcb.freedesktop.org/[XCB]
+:cairo: https://www.cairographics.org/[cairo]
+:license: link:LICENSE[LICENSE]
+
+This is a X backend to use with {nuklear} minimal state immediate mode
+graphical user interface toolkit. It uses {xcb} library for communication with
+X and {cario} library for drawing.
+
+Project Status
+--------------
+
+. INCOMPLETE!
+. There is NO documentation yet!
+. It works, except for what is not implemented yet!
+. Test example is quite incomplete yet!
+
+When will it be finished?
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Someday, never, who knows?!
+If this changes I will let it clear here...
+
+License
+-------
+
+This project is licensed under the MIT License - see {license} for details.
