@@ -7,7 +7,7 @@ XCB/Cairo Nuklear Backend
 
 This is a X backend to use with {nuklear} minimal state immediate mode
 graphical user interface toolkit. It uses {xcb} library for communication with
-X and {cario} library for drawing.
+X and {cairo} library for drawing.
 
 Project Status
 --------------
